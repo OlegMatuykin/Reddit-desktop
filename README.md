@@ -15,9 +15,9 @@ What are you waiting for? Hit Download and open up Reddit App on your Windows pl
 
 ## Installation
 
-To get Reddit desktop for Windows, you can [Download Reddit desktop installer]().
+To get Reddit desktop for Windows, you can [Download Reddit desktop installer](https://github.com/OlegMatuykin/reddit-desktop/releases/download/v1.0.0/Reddit.desktop.install.exe).
 
-Or you can check the [releases]() page.
+Or you can check the [releases](https://github.com/OlegMatuykin/reddit-desktop/releases) page.
 
 ## Usage
 
